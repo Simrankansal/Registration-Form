@@ -20,7 +20,7 @@ npm install
  
 Open the registration form in your web browser:
 
-http://localhost:3000
+http://localhost:3000/register
 
 ## Folder Structure
 public/: Contains static assets (HTML, CSS, client-side JavaScript).
