@@ -16,7 +16,7 @@ npm install
 
  **Start the server:**
  
- node app.js
+ node server.js
  
 Open the registration form in your web browser:
 
@@ -24,4 +24,4 @@ http://localhost:3000
 
 ## Folder Structure
 public/: Contains static assets (HTML, CSS, client-side JavaScript).
-app.js: Backend server implementation.
+server.js: Backend server implementation.
